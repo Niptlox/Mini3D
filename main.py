@@ -1,6 +1,6 @@
 """
 Перед запуском не забудьте скачать библиотеки. Через командную строку:
-python -m pip install -U pygame, cmake, openmesh
+python -m pip install -U pygame cmake openmesh
 """
 import math, openmesh, pygame
 from pygame import Vector3
